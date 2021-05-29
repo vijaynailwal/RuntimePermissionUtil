@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RuntimePermissionUtil</string>
+
+    <string name="grant">Grant</string>
+    <string name="Deny">Deny</string>
+
+    <string name="storagePermInfoMsg">App needs this permission to store files on phone\'s storage. Are you sure you want to deny this permission ?</string>
+    <string name="storagePermErrorMsg">Storage permission denied. You can enable permission from settings</string>
+
+    <string name="contactsPermInfoMsg">App needs this permission to access phone contacts. Are you sure you want to deny this permission ?</string>
+    <string name="contactsPermErrorMsg">Contacts permission denied. You can enable permission from settings</string>
+
+    <string name="smsPermInfoMsg">App needs this permission to receive/read SMS for auto detection of OTP. Are you sure you want to deny this permission ?</string>
+    <string name="smsPermErrorMsg">SMS permission denied. You can enable permission from settings</string>
+
+    <string name="accountsPermInfoMsg">App needs this permission to access Google Account on phone. Are you sure you want to deny this permission ?</string>
+    <string name="accountsPermErrorMsg">Contacts permission denied. You can enable permission from settings</string>
+
+    <string name="cameraPermInfoMsg">App needs this permission to capture photos using phone\'s camera. Are you sure you want to deny this permission ?</string>
+    <string name="cameraPermErrorMsg">Camera permission denied. You can enable permission from settings</string>
+
+    <string name="calendarPermInfoMsg">App needs this permission to access phone\'s calendar. Are you sure you want to deny this permission ?</string>
+    <string name="calendarPermErrorMsg">Calendar permission denied. You can enable permission from settings</string>
+
+    <string name="locationPermInfoMsg">App needs this permission to access your location. Are you sure you want to deny this permission ?</string>
+    <string name="locationPermErrorMsg">Location permission denied. You can enable permission from settings</string>
+    <string name="required_permission">Permission Required</string>
+    <string name="failed_to_get_location">Failed to get location.</string>
+    <string name="please_allow_location">Please allow Location access to use this application.</string>
+
+</resources>
